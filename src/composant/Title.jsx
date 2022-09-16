@@ -1,4 +1,4 @@
-import "./Title.css"
+import "../style/Title.css"
 
 function Title() {
   return <h1 className="title-robot">MES AMIS ROBOTS</h1>
