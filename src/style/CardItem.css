@@ -1,0 +1,35 @@
+.robot_item{
+    background-color: #8af4cf;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    padding: 1em;
+    cursor: pointer;
+}
+
+.robot_item:hover{
+    background-color: #ffa300;
+    transform: scale(1.1);
+    transition: transform 1s;
+}
+
+.robot_img{
+    width: 150px;
+}
+.robot_info{
+    text-align: center;
+}
+.name{
+    font-weight: bold;
+    line-height: 0;
+}
+.mail{
+    font-size: 11px;
+}
+
+img{
+    width: 100px;
+    height: auto;
+}

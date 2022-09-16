@@ -1,0 +1,15 @@
+.input{
+    background-color: #caeaff;
+    border: none;
+    width: 300px;
+
+    color: #7072ac;
+    outline: none;
+    padding: 1em;
+    
+}
+
+.robot_search{
+    display: flex;
+    justify-content: center;
+}
